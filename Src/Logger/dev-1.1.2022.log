@@ -1,0 +1,8 @@
+2022-01-01 08:24:04 - Level: emergency - Message: This in an emergency log - Context: {"exception":"emergency"}
+2022-01-01 08:24:04 - Level: info - Message: User created successfully - Context: {"id":232}
+2022-01-01 08:28:41 - Level: emergency - Message: This in an emergency log - Context: {"exception":"emergency"}
+2022-01-01 08:28:41 - Level: info - Message: User created successfully - Context: {"id":232}
+2022-01-01 09:32:00 - Level: emergency - Message: This in an emergency log - Context: {"exception":"emergency"}
+2022-01-01 09:32:00 - Level: info - Message: User created successfully - Context: {"id":232}
+2022-01-01 11:04:14 - Level: emergency - Message: This in an emergency log - Context: {"exception":"emergency"}
+2022-01-01 11:04:14 - Level: info - Message: User created successfully - Context: {"id":232}
